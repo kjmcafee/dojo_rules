@@ -2,4 +2,4 @@ I love Ruby
 
 * Ruby
 * JavaScript
-* rebase
+* rebaseKilling history using git rebase
